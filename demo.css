@@ -1,0 +1,12 @@
+h1 {
+    color: aquamarine;
+}
+
+div { 
+    font-size: 32px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    text-shadow: 2px 1px;
+    font-weight: bold;
+}
